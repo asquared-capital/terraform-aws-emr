@@ -22,9 +22,9 @@ go test -v -timeout 30m test/emr_cluster_test.go
 ```
 
 ## To-Do's
-[ ] Implement an example to run an EMR Cluster in a private network
-[ ] Add more tests
-[ ] At-Rest Encryption
-[ ] In-Flight Encryption
-[ ] Auditing
-[ ] Extend Documentation
+- [ ] Implement an example to run an EMR Cluster in a private network
+- [ ] Add more tests
+- [ ] At-Rest Encryption
+- [ ] In-Flight Encryption
+- [ ] Auditing
+- [ ] Extend Documentation
